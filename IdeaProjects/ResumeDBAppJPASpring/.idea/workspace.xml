@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d35aec74-3801-4040-93e5-f38ce8d42b1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z1J5GSCRQSq8TzSIaYPTS5nNtO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/Desktop/myapp" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35aec74-3801-4040-93e5-f38ce8d42b1a" name="Default Changelist" comment="" />
+      <created>1584000485547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584000485547</updated>
+      <workItem from="1584000496985" duration="2315000" />
+      <workItem from="1584013633253" duration="1833000" />
+      <workItem from="1584179214810" duration="306000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="178" key="#Project_Structure" timestamp="1584013660090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1584013660090" />
+    <state x="701" y="375" key="FileChooserDialogImpl" timestamp="1584179527784">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="701" y="375" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584179527784" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1584179381229">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584179381229" />
+    <state x="303" y="166" key="new project wizard" timestamp="1584179432008">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="303" y="166" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584179432008" />
+  </component>
+</project>
